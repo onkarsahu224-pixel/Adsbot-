@@ -1,0 +1,6 @@
+telethon
+pyrogram
+TgCrypto
+groq
+aiohttp
+cryptography
